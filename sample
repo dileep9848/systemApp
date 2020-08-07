@@ -1,0 +1,27 @@
+
+
+public class Student
+{
+    private Integer sId;
+    private String sName;
+    
+    public void setSid(integer sId)
+    {
+        this.sId=sId;
+    }
+    public Integer getSid()
+    {
+         return sId;
+    }
+    
+    public void setSname(String sname)
+    {
+         this.sName=sName;
+    }
+    
+    public String getSname()
+    {
+         return sName;
+    }
+ }
+         
